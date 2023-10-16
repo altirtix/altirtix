@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨 My name is Artur Zhadan <br>👨‍💻 I am a Software Engineer <br>🎓 Graduated Computer Science<br>📁 Only educational and non - commercial projects <br>👋 Pleased to meet you</p>
+<p align="left">👨 Artur Zhadan <br>👨‍💻 Software Engineer <br>🎓 Graduated Computer Science<br>📁 Only educational and non-commercial projects</p>
 
 ###
 
