@@ -10,6 +10,10 @@
 
 ###
 
+<p align="left">🎓 Graduated Computer Science</p>
+
+###
+
 <p align="left">📁 Only educational and non - commercial projects</p>
 
 ###
