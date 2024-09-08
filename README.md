@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨 Arthur Zhadan <br>👨‍💻 Software Engineer <br>🎓 Graduated Master's in Computer Science<br>📁 Only educational and non-commercial projects</p>
+<p align="left">👨 Artur Zhadan <br>👨‍💻 Software Engineer <br>🎓 Graduated Master's in Computer Science<br>📁 Only educational and non-commercial projects</p>
 
 ###
 
