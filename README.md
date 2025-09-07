@@ -162,5 +162,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altirtix&show_icons=true&locale=en&layout=compact" alt="altirtix" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=altirtix&show_icons=true&locale=en" alt="altirtix" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altirtix&" alt="altirtix" />
-  <img src="https://raw.githubusercontent.com/altirtix/altirtix/output/snake.svg" alt="Snake animation" />
 </div>
