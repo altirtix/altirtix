@@ -149,7 +149,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=altirtix.altirtix&"  />
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=altirtix&label=Profile%20views&color=0e75b6&style=flat" alt="altirtix" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=altirtix&label=Profile%20views&color=0e75b6&style=flat" alt="altirtix" />
 </div>
 
 ###
@@ -158,12 +158,9 @@
 
 ###
 <div align="center">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altirtix" alt="altirtix" /></a> </p>
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altirtix&show_icons=true&locale=en&layout=compact" alt="altirtix" /></p>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altirtix&show_icons=true&locale=en" alt="altirtix" /></p>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altirtix&" alt="altirtix" /></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=altirtix" alt="altirtix" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altirtix&show_icons=true&locale=en&layout=compact" alt="altirtix" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=altirtix&show_icons=true&locale=en" alt="altirtix" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altirtix&" alt="altirtix" />
 </div>
 ###
