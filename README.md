@@ -152,7 +152,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/altirtix/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=altirtix.altirtix&"  />
 </div>
 
 ###
