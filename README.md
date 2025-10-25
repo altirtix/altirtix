@@ -19,17 +19,11 @@
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users/142380540069150721" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="25" alt="Discord" />
-  </a>
-  <a href="https://facebook.com/altirtix" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/altirtix" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="Instagram" />
-  </a>
   <a href="https://linkedin.com/in/altirtix" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://discordapp.com/users/142380540069150721" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="25" alt="Discord" />
   </a>
   <a href="https://twitter.com/altirtix" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="25" alt="Twitter" />
