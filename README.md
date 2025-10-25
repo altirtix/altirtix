@@ -159,7 +159,7 @@
 
 ###
 
-<h1 align="left">👁️ Profile Views</h1>
+<h1 align="left">👁️ GitHub Profile Views</h1>
 
 ###
 
@@ -169,14 +169,18 @@
 
 ###
 
-<h1 align="left">📊 Stats</h1>
+<h1 align="left">📊 GitHub Stats</h1>
 
 ###
 
 <div align="center">
-
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=altirtix" alt="altirtix" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=altirtix&show_icons=true&locale=en&layout=compact" alt="altirtix" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=altirtix&show_icons=true&locale=en" alt="altirtix" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altirtix&" alt="altirtix" />
+</div>
+
+<h1 align="left">🏆 GitHub Trophies</h1>
+
+<div align="center">
+  <img align="center" src="https://github-trophies.vercel.app/?username=altirtix&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="altirtix" />
 </div>
