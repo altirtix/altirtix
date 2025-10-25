@@ -182,5 +182,5 @@
 <h1 align="left">🏆 GitHub Trophies</h1>
 
 <div align="center">
-  <img align="center" src="https://github-trophies.vercel.app/?username=altirtix&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="altirtix" />
+  <img align="center" src="https://github-trophies.vercel.app/?username=altirtix" alt="altirtix" />
 </div>
