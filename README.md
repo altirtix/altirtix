@@ -20,27 +20,22 @@
 
 <div align="center">
   <a href="https://az-frontend.fly.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Website&message=az-frontend.fly.dev&color=0F62FE&logo=internet-explorer&logoColor=white&style=for-the-badge" height="25" alt="Website" />
+    <img src="https://img.shields.io/static/v1?label=Website&message=az-frontend.fly.dev&color=000000&logo=internet-explorer&logoColor=white&style=for-the-badge" height="25" alt="Website" />
   </a>
-
   <a href="https://linkedin.com/in/altirtix" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=@altirtix&color=0077B5&logo=LinkedIn&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-
   <a href="https://unsplash.com/@altirtix" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Unsplash&message=@altirtix&color=111&logo=unsplash&logoColor=white&style=for-the-badge" height="25" alt="Unsplash" />
+    <img src="https://img.shields.io/static/v1?label=Unsplash&message=@altirtix&color=555555&logo=unsplash&logoColor=white&style=for-the-badge" height="25" alt="Unsplash" />
   </a>
-
   <a href="https://discordapp.com/users/142380540069150721" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="25" alt="Discord" />
+    <img src="https://img.shields.io/static/v1?label=Discord&message=@altirtix&color=7289DA&logo=discord&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
   </a>
-
   <a href="https://twitter.com/altirtix" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="25" alt="Twitter" />
+    <img src="https://img.shields.io/static/v1?label=Twitter&message=@altirtix&color=1DA1F2&logo=Twitter&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
   </a>
-
   <a href="https://youtube.com/c/altirtix" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="25" alt="YouTube" />
+    <img src="https://img.shields.io/static/v1?label=YouTube&message=@altirtix&color=FF0000&logo=YouTube&logoColor=white&style=for-the-badge" height="25" alt="YouTube" />
   </a>
 </div>
 
