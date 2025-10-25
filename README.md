@@ -17,17 +17,23 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/altirtix/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://discordapp.com/users/142380540069150721" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="25" alt="Discord" />
   </a>
-  <a href="https://www.youtube.com/@altirtix" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://facebook.com/altirtix" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/altirtix" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/altirtix" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/altirtix" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="25" alt="Twitter" />
   </a>
-  <a href="https://unsplash.com/@altirtix" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="unsplash logo"  />
+  <a href="https://youtube.com/c/altirtix" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="25" alt="YouTube" />
   </a>
 </div>
 
