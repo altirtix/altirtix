@@ -4,6 +4,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+###
+
 <h1 align="left">👤 Bio Info</h1>
 
 ###
@@ -131,6 +133,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="heroku logo"  />
@@ -192,6 +195,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
+###
+
 <p align="left">🌐 Online Services</p>
 
 ###
@@ -199,9 +204,9 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
@@ -223,12 +228,20 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=altirtix&show_icons=true&locale=en&layout=compact" alt="altirtix" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=altirtix&show_icons=true&locale=en" alt="altirtix" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altirtix&" alt="altirtix" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=altirtix&show_icons=true&locale=en&layout=compact" alt="altirtix" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=altirtix&show_icons=true&locale=en" alt="altirtix" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altirtix&" alt="altirtix" />
 </div>
 
+###
+
 <h1 align="left">🏆 GitHub Trophies</h1>
+
+###
 
 <div align="center">
   <img align="center" src="https://github-trophies.vercel.app/?username=altirtix" alt="altirtix" />
