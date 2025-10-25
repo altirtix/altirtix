@@ -19,15 +19,26 @@
 ###
 
 <div align="center">
+  <a href="https://az-frontend.fly.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Website&message=az-frontend.fly.dev&color=0F62FE&logo=internet-explorer&logoColor=white&style=for-the-badge" height="25" alt="Website" />
+  </a>
+
   <a href="https://linkedin.com/in/altirtix" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" height="25" alt="LinkedIn" />
   </a>
+
+  <a href="https://unsplash.com/@altirtix" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Unsplash&message=@altirtix&color=111&logo=unsplash&logoColor=white&style=for-the-badge" height="25" alt="Unsplash" />
+  </a>
+
   <a href="https://discordapp.com/users/142380540069150721" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="25" alt="Discord" />
   </a>
+
   <a href="https://twitter.com/altirtix" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="25" alt="Twitter" />
   </a>
+
   <a href="https://youtube.com/c/altirtix" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="25" alt="YouTube" />
   </a>
