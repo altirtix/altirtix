@@ -3,7 +3,7 @@
 </div>
 
 <div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
+  <ul align="left" style="list-style: none;">
     <summary>
 <h1 align="left">👤 Bio Info</h1>
     </summary>
