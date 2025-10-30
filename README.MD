@@ -2,14 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<div id="user-content-toc">
-  <ul align="left" style="list-style: none;">
-    <summary>
-<h1 align="left">👤 Bio Info</h1>
-    </summary>
-  </ul>
-</div>
-
 <h1 align="left">👤 Bio Info</h1>
 <p align="left">👨 Artur Zhadan <br>👨‍💻 Software Engineer <br>🎓 Graduated Master's in Computer Science<br>📁 Only educational and non-commercial projects</p>
 
@@ -25,7 +17,7 @@
   <a href="https://unsplash.com/@altirtix" target="_blank">
     <img src="https://img.shields.io/badge/Unsplash-555555?logo=unsplash&logoColor=white" height="25" alt="Unsplash" />
   </a>
-  <a href="https://discordapp.com/users/142380540069150721" target="_blank">
+  <a href="discord://-/users/142380540069150721" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" height="25" alt="Discord" />
   </a>
   <a href="https://x.com/altirtix" target="_blank">
