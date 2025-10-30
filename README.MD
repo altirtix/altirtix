@@ -2,11 +2,13 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1 align="left">👤 Bio Info</h1>
+<h1 align="left">👤 Bio Info</h1>
     </summary>
   </ul>
+</div>
 
 <h1 align="left">👤 Bio Info</h1>
 <p align="left">👨 Artur Zhadan <br>👨‍💻 Software Engineer <br>🎓 Graduated Master's in Computer Science<br>📁 Only educational and non-commercial projects</p>
