@@ -17,7 +17,7 @@
   <a href="https://unsplash.com/@altirtix" target="_blank">
     <img src="https://img.shields.io/badge/Unsplash-555555?logo=unsplash&logoColor=white" height="25" alt="Unsplash" />
   </a>
-  <a href="https://discordapp.com/users/142380540069150721" target="_blank">
+  <a href="https://discord.com/users/142380540069150721" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" height="25" alt="Discord" />
   </a>
   <a href="https://x.com/altirtix" target="_blank">
