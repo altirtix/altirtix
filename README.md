@@ -1,19 +1,11 @@
-###
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
-
 <h1 align="left">👤 Bio Info</h1>
 <p align="left">👨 Artur Zhadan <br>👨‍💻 Software Engineer <br>🎓 Graduated Master's in Computer Science<br>📁 Only educational and non-commercial projects</p>
 
-###
-
 <h1 align="left">🌐 Social Media</h1>
-
-###
 
 <div align="center">
   <a href="https://az-frontend.fly.dev/" target="_blank">
@@ -36,15 +28,9 @@
   </a>
 </div>
 
-###
-
 <h1 align="left">💻 Techs</h1>
 
-###
-
 <p align="left">🧠 Languages</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -72,11 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
-###
-
 <p align="left">⚙️ Frameworks / Libs</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -102,11 +84,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
-###
-
 <p align="left">🗄️ DBMS's</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -142,11 +120,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
 </div>
 
-###
-
 <p align="left">💽 OS's</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
@@ -160,11 +134,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
-###
-
 <p align="left">🧩 IDE's / Code Editors</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -176,11 +146,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
-###
-
 <p align="left">🛠️ Tools</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
@@ -192,11 +158,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-###
-
 <p align="left">🌐 Online Services</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
@@ -208,21 +170,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
-###
-
 <h1 align="left">👁️ GitHub Profile Views</h1>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=altirtix.altirtix&"  />
 </div>
 
-###
-
 <h1 align="left">📊 GitHub Stats</h1>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=altirtix&show_icons=true&locale=en&layout=compact" alt="altirtix" />
@@ -234,11 +188,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=altirtix&" alt="altirtix" />
 </div>
 
-###
-
 <h1 align="left">🏆 GitHub Trophies</h1>
-
-###
 
 <div align="center">
   <img align="center" src="https://github-trophies.vercel.app/?username=altirtix" alt="altirtix" />
