@@ -7,8 +7,6 @@
 ###
 
 <h1 align="left">👤 Bio Info</h1>
-<hr style="border: none; margin: 0;">
-
 <p align="left">👨 Artur Zhadan <br>👨‍💻 Software Engineer <br>🎓 Graduated Master's in Computer Science<br>📁 Only educational and non-commercial projects</p>
 
 ###
