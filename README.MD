@@ -196,4 +196,6 @@
 
 <h1 align="left">💿 Spotify Recent</h1>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8kw7g8x5j6mre1cieljpiod1b)
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8kw7g8x5j6mre1cieljpiod1b)
+</div>
