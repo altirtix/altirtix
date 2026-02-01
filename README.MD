@@ -111,7 +111,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="40" alt="heroku logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="github actions logo"  />
   <img width="12" />
