@@ -165,9 +165,9 @@
 <div style="margin-bottom:32px;">
   <h1 align="left" style="margin:24px 0 16px;">📊 GitHub Stats</h1>
   <div align="center" style="display:flex; flex-direction:column; gap:16px;">
-    ![Stats](./profile/stats.svg)
-    ![Top Languages](./profile/top-langs.svg)
-    ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+    <img src="./profile/stats.svg" alt="Stats">
+    <img src="./profile/top-langs.svg" alt="Top Languages">
+    <img src="./profile/pin-readme-tools-github-readme-stats.svg">
   </div>
 </div>
 
