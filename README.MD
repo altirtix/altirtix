@@ -165,9 +165,9 @@
 <div style="margin-bottom:32px;">
   <h1 align="left" style="margin:24px 0 16px;">📊 GitHub Stats</h1>
   <div align="center" style="display:flex; flex-direction:column; gap:16px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=altirtix&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=altirtix&show_icons=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=altirtix">
+    ![Stats](./profile/stats.svg)
+    ![Top Languages](./profile/top-langs.svg)
+    ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
   </div>
 </div>
 
