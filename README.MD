@@ -1,12 +1,12 @@
 <!-- HERO -->
-<div align="center" style="margin-bottom:32px;">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <!-- BIO -->
-<div style="margin-bottom:32px;">
-  <h1 align="left" style="margin:24px 0 16px;">👤 Bio Info</h1>
-  <div align="left" style="line-height:1.6;">
+<div>
+  <h1 align="left">👤 Bio Info</h1>
+  <div align="left">
     👨 Artur Zhadan<br>
     👨‍💻 Software Engineer<br>
     🎓 Graduated Master's in Computer Science<br>
@@ -15,9 +15,9 @@
 </div>
 
 <!-- SOCIAL MEDIA -->
-<div style="margin-bottom:32px;">
-  <h1 align="left" style="margin:24px 0 16px;">🌐 Social Media</h1>
-  <div align="center" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+<div>
+  <h1 align="left">🌐 Social Media</h1>
+  <div align="center">
     <a href="https://az-frontend.fly.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Website-000000?logo=GoogleChrome&logoColor=white" height="25">
     </a>
@@ -40,13 +40,13 @@
 </div>
 
 <!-- TECHS -->
-<div style="margin-bottom:32px;">
-  <h1 align="left" style="margin:24px 0 16px;">💻 Techs</h1>
+<div>
+  <h1 align="left">💻 Techs</h1>
 
   <!-- Languages -->
-  <div style="margin-bottom:28px;">
+  <div>
     <h3>🧠 Languages</h3>
-    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+    <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40">
@@ -63,9 +63,9 @@
   </div>
 
   <!-- Frameworks / Libs -->
-  <div style="margin-bottom:28px;">
+  <div>
     <h3>⚙️ Frameworks / Libs</h3>
-    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+    <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40">
@@ -81,9 +81,9 @@
   </div>
 
   <!-- DBMS -->
-  <div style="margin-bottom:28px;">
+  <div>
     <h3>🗄️ DBMS's</h3>
-    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+    <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40">
@@ -92,9 +92,9 @@
   </div>
 
   <!-- DevOps -->
-  <div style="margin-bottom:28px;">
+  <div>
     <h3>⚙️ DevOps</h3>
-    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+    <div>
       <img src="https://cdn.simpleicons.org/git/F05032" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40">
@@ -108,9 +108,9 @@
   </div>
 
   <!-- OS -->
-  <div style="margin-bottom:28px;">
+  <div>
     <h3>💽 OS's</h3>
-    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+    <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40">
@@ -120,9 +120,9 @@
   </div>
 
   <!-- IDEs -->
-  <div style="margin-bottom:28px;">
+  <div>
     <h3>🧩 IDE's / Code Editors</h3>
-    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+    <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40">
@@ -131,9 +131,9 @@
   </div>
 
   <!-- Tools -->
-  <div style="margin-bottom:28px;">
+  <div>
     <h3>🛠️ Tools</h3>
-    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+    <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40">
       <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40">
@@ -144,7 +144,7 @@
   <!-- Online Services -->
   <div>
     <h3>🌐 Online Services</h3>
-    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+    <div>
       <img src="https://cdn.simpleicons.org/jira/0052CC" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40">
       <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40">
@@ -154,34 +154,35 @@
 </div>
 
 <!-- PROFILE VIEWS -->
-<div style="margin-bottom:32px;">
-  <h1 align="left" style="margin:24px 0 16px;">👁️ GitHub Profile Views</h1>
+<div>
+  <h1 align="left">👁️ GitHub Profile Views</h1>
   <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=altirtix.altirtix">
   </div>
 </div>
 
 <!-- STATS -->
-<div style="margin-bottom:32px;">
-  <h1 align="left" style="margin:24px 0 16px;">📊 GitHub Stats</h1>
+<div>
+  <h1 align="left">📊 GitHub Stats</h1>
   <div align="center">
-    <div><img src="./profile/stats.svg" alt="Stats"></div>
-    <div><img src="./profile/top-langs.svg" alt="Top Languages"></div>
-    <div><img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned"></div>
+    <img src="./profile/stats.svg" alt="Stats">
+  </div>
+  <div align="center">
+    <img src="./profile/top-langs.svg" alt="Top Languages">
   </div>
 </div>
 
 <!-- TROPHIES -->
-<div style="margin-bottom:32px;">
-  <h1 align="left" style="margin:24px 0 16px;">🏆 GitHub Trophies</h1>
+<div>
+  <h1 align="left">🏆 GitHub Trophies</h1>
   <div align="center">
     <img src="https://github-trophies.vercel.app/?username=altirtix">
   </div>
 </div>
 
 <!-- SPOTIFY -->
-<div style="margin-bottom:32px;">
-  <h1 align="left" style="margin:24px 0 16px;">💿 Spotify Recent</h1>
+<div>
+  <h1 align="left">💿 Spotify Recent</h1>
   <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=8kw7g8x5j6mre1cieljpiod1b">
   </div>
