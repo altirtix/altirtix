@@ -44,9 +44,9 @@
   <h1 align="left" style="margin:24px 0 16px;">💻 Techs</h1>
 
   <!-- Languages -->
-  <div style="margin-bottom:24px;">
-    <strong>🧠 Languages</strong>
-    <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
+  <div style="margin-bottom:28px;">
+    <div style="font-weight:600; margin-bottom:12px;">🧠 Languages</div>
+    <div style="display:flex; flex-wrap:wrap; gap:12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40">
@@ -62,10 +62,10 @@
     </div>
   </div>
 
-  <!-- Frameworks -->
-  <div style="margin-bottom:24px;">
-    <strong>⚙️ Frameworks / Libs</strong>
-    <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
+  <!-- Frameworks / Libs -->
+  <div style="margin-bottom:28px;">
+    <div style="font-weight:600; margin-bottom:12px;">⚙️ Frameworks / Libs</div>
+    <div style="display:flex; flex-wrap:wrap; gap:12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40">
@@ -81,9 +81,9 @@
   </div>
 
   <!-- DBMS -->
-  <div style="margin-bottom:24px;">
-    <strong>🗄️ DBMS's</strong>
-    <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
+  <div style="margin-bottom:28px;">
+    <div style="font-weight:600; margin-bottom:12px;">🗄️ DBMS's</div>
+    <div style="display:flex; flex-wrap:wrap; gap:12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40">
@@ -92,26 +92,25 @@
   </div>
 
   <!-- DevOps -->
-  <div style="margin-bottom:24px;">
-    <strong>⚙️ DevOps</strong>
-    <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40">
+  <div style="margin-bottom:28px;">
+    <div style="font-weight:600; margin-bottom:12px;">⚙️ DevOps</div>
+    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+      <img src="https://cdn.simpleicons.org/git/F05032" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40">
+      <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40">
+      <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40">
     </div>
   </div>
 
   <!-- OS -->
-  <div style="margin-bottom:24px;">
-    <strong>💽 OS's</strong>
-    <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
+  <div style="margin-bottom:28px;">
+    <div style="font-weight:600; margin-bottom:12px;">💽 OS's</div>
+    <div style="display:flex; flex-wrap:wrap; gap:12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40">
@@ -120,10 +119,10 @@
     </div>
   </div>
 
-  <!-- IDE -->
-  <div style="margin-bottom:24px;">
-    <strong>🧩 IDE's / Code Editors</strong>
-    <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
+  <!-- IDEs -->
+  <div style="margin-bottom:28px;">
+    <div style="font-weight:600; margin-bottom:12px;">🧩 IDE's / Code Editors</div>
+    <div style="display:flex; flex-wrap:wrap; gap:12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40">
@@ -132,11 +131,11 @@
   </div>
 
   <!-- Tools -->
-  <div style="margin-bottom:24px;">
-    <strong>🛠️ Tools</strong>
-    <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
+  <div style="margin-bottom:28px;">
+    <div style="font-weight:600; margin-bottom:12px;">🛠️ Tools</div>
+    <div style="display:flex; flex-wrap:wrap; gap:12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40">
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40">
     </div>
@@ -144,11 +143,11 @@
 
   <!-- Online Services -->
   <div>
-    <strong>🌐 Online Services</strong>
-    <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40">
+    <div style="font-weight:600; margin-bottom:12px;">🌐 Online Services</div>
+    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+      <img src="https://cdn.simpleicons.org/jira/0052CC" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40">
+      <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40">
     </div>
   </div>
