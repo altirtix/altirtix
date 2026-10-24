@@ -153,10 +153,6 @@
       <img src="https://cdn.simpleicons.org/rider/C90F5E" height="40">
       <img src="https://cdn.simpleicons.org/webstorm/07C3F2" height="40">
       <img src="https://cdn.simpleicons.org/githubcopilot/8534F3" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40">
     </div>
   </div>
 
